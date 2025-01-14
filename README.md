@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sreejon Ghosh
-- 👀 I’m interested in Software Development and Data Science
+- 👀 I’m interested in Software Development, Data Science, GenAI & Machine Learning
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on any project at present to get more exposure and learn new things 
 - 📫 How to reach me: Mail - ghosh.sreejon21@gmail.com || LinkedIn - linkedin.com/in/sreejonghosh/
