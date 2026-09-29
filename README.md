@@ -5,7 +5,6 @@ only W's
 - 📫 How to reach me:
 - Mail - ghosh.sreejon21@gmail.com
 - [LinkedIn](https://linkedin.com/in/sreejonghosh/)
-- [Portfolio](https://sreejon.vercel.app)
 <!---
 GhoshSreejon/GhoshSreejon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
