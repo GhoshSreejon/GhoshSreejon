@@ -1,8 +1,11 @@
 only W's
-- 👀 I’m interested in Software Development, Data Science, GenAI & Machine Learning
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on any project at present to get more exposure and learn new things 
-- 📫 How to reach me:
+- "What is earth without art? It's just a rock."
+- working towards becoming an SRE
+- DevOps Engineer @ DP World in Infrastructure Team (Sept '26 - Present)
+- ex SE-Intern @ Progress Software in Chef Infra Contents team (Oct '25 - Sept '26)
+- CS grad from LPU, '26
+- Art, Music, Football, Literature, also Science & Tech.
+- Reach out to me at :
 - Mail - ghosh.sreejon21@gmail.com
 - [LinkedIn](https://linkedin.com/in/sreejonghosh/)
 <!---
