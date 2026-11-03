@@ -7,7 +7,7 @@ only W's
 - Art, Music, Football, Literature, also Science & Tech.
 - Reach out to me at :
 - Mail - ghosh.sreejon21@gmail.com
-- [LinkedIn](https://linkedin.com/in/sreejonghosh/)
+- LinkedIn - https://linkedin.com/in/sreejonghosh/
 <!---
 GhoshSreejon/GhoshSreejon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
